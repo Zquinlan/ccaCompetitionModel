@@ -1,4 +1,4 @@
-# Coral larval settlement preference for crustose coralline algae can enhance coral persistence and restoration success<img width="468" height="70" alt="image" src="https://github.com/user-attachments/assets/129890d5-1d15-4c77-817b-4f9c8175acea" />
+# Coral larval settlement preference for crustose coralline algae can enhance coral persistence and restoration success
 
  <br />
 Zachary A. Quinlan*, Lisa C. McManus, Megan J. Donahue <br />
