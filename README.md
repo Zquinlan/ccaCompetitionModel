@@ -2,7 +2,9 @@
 
  <br />
 Zachary A. Quinlan*, Lisa C. McManus, Megan J. Donahue <br />
-*Corresponding author
+*Corresponding author <br />
+
+[![DOI](https://zenodo.org/badge/931209361.svg)](https://doi.org/10.5281/zenodo.20736441)
 
 ### Abstract:
 As coral reefs shift towards algal-dominated states worldwide, there is increasing interest in designing management interventions to slow or halt these declines. Crustose coralline algae (CCA), a major benthic component of many reef systems, have important interactions with coral yet their role in coral-algal regime shifts is not well understood. In recent studies, CCA has been shown to be either beneficial or antagonistic to coral larvae depending on the CCA species. This species-specific variability may play a large role in supporting or opposing regime shifts as dominance of more antagonistic CCA can potentially reduce the amount of available settlement space across the benthos and inhibit recruitment. To explore the impacts of this broad range of species-specific interactions, we expanded a well-studied analytical model to explicitly include CCA and larval settlement preference or inhibition based on CCA species-specific interactions. Our model results demonstrate the importance of local community composition for a better understanding of coral reef regime shifts that can be leveraged for management efforts. Through a series of reef restoration scenario simulations, we suggest that manipulating CCA or macroalgal cover during coral outplanting reduces the amount of effort required to shift community trajectories towards coral recovery.
